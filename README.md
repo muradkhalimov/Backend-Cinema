@@ -1,5 +1,4 @@
 <b>Backend онлайн кинотерта</b>
-
 ##
 Стэк: Nest.js, TypeScript, MongoDB, Passport.js, JWT
 
