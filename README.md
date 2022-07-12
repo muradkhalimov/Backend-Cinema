@@ -1,3 +1,10 @@
+##
+Стэк: Nest.js, TypeScript, MongoDB, Passport.js, JWT
+
+Умею делать: backend на Nest.js, авторизацию, кастомные декораторы, защиту endpoint по ролям, запросы с агрегациями, работать с запросами в Insomnia/Postman, реализацию загрузки файлов
+
+##
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
